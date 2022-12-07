@@ -109,7 +109,7 @@ body {
 /* 3- sections styles */
 /* 3.0 header section */
 .header{
-
+    background: #0000005c;
     position: fixed;
     width: 100%;
     z-index: 10;
@@ -117,7 +117,7 @@ body {
 
 
 .header-content {
-    overflow: hidden; 
+    /* overflow: hidden;  */
 }
 
 
